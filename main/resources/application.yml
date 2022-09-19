@@ -1,0 +1,6 @@
+server:
+  prot:8081
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cl
